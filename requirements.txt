@@ -1,0 +1,3 @@
+﻿telegram
+img2pdf
+python-telegram-bot
