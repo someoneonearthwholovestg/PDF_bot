@@ -4,10 +4,10 @@ import telegram as tg
 import document as doc
 import answers2user as ans
 from user import User, ListUsers
-from my_config import TOKEN
+import os
 
-
-updater = tg_ext.Updater(token=TOKEN, use_context=True)
+token = os.environ.get("TOKEN","")
+updater = tg_ext.Updater(token, use_context=True)
 dispatcher = updater.dispatcher
 
 FILENAME, PHOTO, AMOUNT_OF_PHOTOS, ADD_OR_END = range(4)
