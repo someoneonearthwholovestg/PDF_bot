@@ -26,7 +26,7 @@ answers = {
                         "/change_language - ഭാഷ മാറ്റുക\n",},
 
             CHANGE_LANGUAGE: {ENG: "Language changed to English!\n",
-                              RUS: "Язык сменен на русский!\n"},
+                              RUS: "ഭാഷ മലയാളത്തിലേക്ക് മാറ്റി\n"},
 
             CANCEL_CREATE_PDF: {ENG: "If you change your mind about creating a PDF file, send me /cancel.\n",
                                 RUS: "PDF ഫയൽ സൃഷ്ടിക്കുന്നതിനെക്കുറിച്ച് നിങ്ങൾ മനസ്സ് മാറ്റുകയാണെങ്കിൽ, എനിക്ക് അയയ്ക്കുക /cancel.\n"},
