@@ -18,7 +18,7 @@ active_users = ListUsers()
 
 def start(update: tg.Update, context: tg_ext.CallbackContext):
 
-    update.message.reply_text(f"Hello {update.effective_user.username}! \n Welcome to IMG TO PDF BOT..!! \n\n This Bot will help you to convert images to pdf & Enable's you to remame your pdf file..☺️ \n\n OWNED BY THIS AWESOME PERSON: @nabilanavab ♥️")
+    update.message.reply_text(f"Hello {update.effective_user.username}! \nWelcome to IMG TO PDF BOT..!! \n\nThis Bot will help you to convert images to pdf & Enable's you to remame your pdf file..☺️ \n\n OWNED BY THIS AWESOME PERSON: @nabilanavab ♥️")
 
     active_users.append(User(tg_user=update.effective_user, language=ans.ENG))
 
