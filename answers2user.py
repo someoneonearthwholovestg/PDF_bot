@@ -20,11 +20,10 @@ answers = {
                         "/create_pdf - the main command that creates the PDF file\n"
                         "/change_language - switch language\n",
 
-                   RUS: "Этот бот создает PDF файл из фотографий, которые вы пришлете ему."
-                        "Посмотрите команды доступные на данный момент:\n"
-                        "/create_pdf - главная команда, которая создает PDF файл\n"
-                        "/change_language - сменить язык\n"
-                        "/help - посмотреть описание бота и доступные команды\n",},
+                   RUS: "ഈ ബോട്ട് നിങ്ങൾ അയച്ച ഫോട്ടോകളിൽ നിന്ന് ഒരു PDF ഫയൽ സൃഷ്ടിക്കുന്നു..\n\n"
+                        "നിലവിൽ ലഭ്യമായ കമാൻഡുകൾ പരിശോധിക്കുക:\n\n"
+                        "/create_pdf - PDF ഫയൽ സൃഷ്ടിക്കുന്ന പ്രധാന കമാൻഡ്\n"
+                        "/change_language - ഭാഷ മാറ്റുക\n",},
 
             CHANGE_LANGUAGE: {ENG: "Language changed to English!\n",
                               RUS: "Язык сменен на русский!\n"},
