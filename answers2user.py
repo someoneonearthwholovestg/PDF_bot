@@ -48,8 +48,8 @@ answers = {
 
             ADD_or_END: {ENG: "All photos added to your PDF file!\n"
                               "If you want to add another photos, send me /add, otherwise, /end.\n",
-                         RUS: "Все фотографии добавлены в ваш PDF файл!\n"
-                              "Если вы хотите добавить другие фотографии, пришлите /add, иначе /end.\n"},
+                         RUS: "എല്ലാ ഫോട്ടോകളും നിങ്ങളുടെ PDF ഫയലിലേക്ക് ചേർത്തു!\n"
+                              "നിങ്ങൾക്ക് മറ്റു ഫോട്ടോകൾ ചേർക്കാൻ താൽപ്പര്യമുണ്ടെങ്കിൽ,/add , അല്ലെങ്കിൽ /end.\n"},
 
             ADD_PHOTO: {ENG: "Ok, send me amount of photo, which need to add!\n",
                         RUS: "ശരി, ചേർക്കേണ്ട ഫോട്ടോയുടെ അളവ് എനിക്ക് അയയ്‌ക്കുക!\n"},
