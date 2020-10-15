@@ -35,16 +35,16 @@ answers = {
                              RUS: "ഫയൽ നാമം നൽകുക (വിപുലീകരണം ഇല്ലാതെ) ദയവായി!\n"},
 
             CORRECT_FILENAME: {ENG: "Enter the correct filename please!\n",
-                               RUS: "Введите корректное название файла, пожалуйста!\n"},
+                               RUS: "ദയവായി ശരിയായ ഫയൽ നാമം നൽകുക!\n"},
 
             SEND_AMOUNT_PHOTO: {ENG: "Send me the number of photos please!\n",
-                                RUS: "Пришлите мне количество фотографий, пожалуйста!\n"},
+                                RUS: "ഫോട്ടോകളുടെ എണ്ണം ദയവായി എനിക്ക് അയയ്ക്കുക!\n"},
 
             CORRECT_AMOUNT_PHOTO: {ENG: "Enter the correct number of photos please!\n",
-                                   RUS: "Введите корректное значение числа фотографий, пожалуйста!\n"},
+                                   RUS: "ശരിയായ ഫോട്ടോകളുടെ എണ്ണം ദയവായി നൽകുക!\n"},
 
             SEND_PHOTO: {ENG: "Send me photos please!\n",
-                         RUS: "Пришлите мне фотографии, пожалуйста!\n"},
+                         RUS: "എനിക്ക് ഫോട്ടോകൾ അയയ്ക്കുക!\n"},
 
             ADD_or_END: {ENG: "All photos added to your PDF file!\n"
                               "If you want to add another photos, send me /add, otherwise, /end.\n",
@@ -52,11 +52,11 @@ answers = {
                               "Если вы хотите добавить другие фотографии, пришлите /add, иначе /end.\n"},
 
             ADD_PHOTO: {ENG: "Ok, send me amount of photo, which need to add!\n",
-                        RUS: "Хорошо, пришлите мне количество фотографий, которые нужно добавить!\n"},
+                        RUS: "ശരി, ചേർക്കേണ്ട ഫോട്ടോയുടെ അളവ് എനിക്ക് അയയ്‌ക്കുക!\n"},
 
             WAIT_TIME: {ENG: "Please, wait some time!\n",
-                        RUS: "Пожалуйста, подождите некоторое время!\n"},
+                        RUS: "ദയവായി, കുറച്ച് സമയം കാത്തിരിക്കുക!\n"},
 
             BYE: {ENG: "Thank you for using me! See you again!\n",
-                  RUS: "Спасибо за использование! Увидимся!\n"}
+                  RUS: "എന്നെ ഉപയോഗിച്ചതിന് നന്ദി! വീണ്ടും കാണാം!\n"}
            }
