@@ -30,7 +30,7 @@ dispatcher.add_handler(tg_ext.CommandHandler("start", callback=start))
 
 def choose_language(update: tg.Update, context: tg_ext.CallbackContext):
 
-    keyboard = [[tg.InlineKeyboardButton("Русский", callback_data="rus"),
+    keyboard = [[tg.InlineKeyboardButton("മലയാളം", callback_data="rus"),
                  tg.InlineKeyboardButton("English", callback_data="eng")]]
 
     reply_markup = tg.InlineKeyboardMarkup(keyboard)
