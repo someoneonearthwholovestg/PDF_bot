@@ -32,7 +32,7 @@ answers = {
                                 RUS: "PDF ഫയൽ സൃഷ്ടിക്കുന്നതിനെക്കുറിച്ച് നിങ്ങൾ മനസ്സ് മാറ്റുകയാണെങ്കിൽ, എനിക്ക് അയയ്ക്കുക /cancel.\n"},
 
             ENTER_FILENAME: {ENG: "Enter filename (without extension) please!\n",
-                             RUS: "Введите имя файла (без расширения), пожалуйста!\n"},
+                             RUS: "ഫയൽ നാമം നൽകുക (വിപുലീകരണം ഇല്ലാതെ) ദയവായി!\n"},
 
             CORRECT_FILENAME: {ENG: "Enter the correct filename please!\n",
                                RUS: "Введите корректное название файла, пожалуйста!\n"},
