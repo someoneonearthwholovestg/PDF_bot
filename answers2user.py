@@ -29,7 +29,7 @@ answers = {
                               RUS: "Язык сменен на русский!\n"},
 
             CANCEL_CREATE_PDF: {ENG: "If you change your mind about creating a PDF file, send me /cancel.\n",
-                                RUS: "Если вы передумали создавать PDF файл, то введите команду /cancel.\n"},
+                                RUS: "PDF ഫയൽ സൃഷ്ടിക്കുന്നതിനെക്കുറിച്ച് നിങ്ങൾ മനസ്സ് മാറ്റുകയാണെങ്കിൽ, എനിക്ക് അയയ്ക്കുക /cancel.\n"},
 
             ENTER_FILENAME: {ENG: "Enter filename (without extension) please!\n",
                              RUS: "Введите имя файла (без расширения), пожалуйста!\n"},
