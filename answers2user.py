@@ -15,8 +15,8 @@ WAIT_TIME = "wait_time"
 BYE = "bye"
 
 answers = {
-            HELP: {ENG: "This bot creates a PDF file from the photos you send to it.\n"
-                        "Take a look at the commands currently available:\n"
+            HELP: {ENG: "This bot creates a PDF file from the photos you send to it.\n\n"
+                        "Take a look at the commands currently available:\n\n"
                         "/create_pdf - the main command that creates the PDF file\n"
                         "/change_language - switch language\n",
 
